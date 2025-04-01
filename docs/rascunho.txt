@@ -1,0 +1,55 @@
+# Estrutura Recomendada para a Página
+
+## Cabeçalho (Header)
+
+    Logo do café
+
+    Menu de navegação com links para as seções: Início, Sobre, Cardápio, Depoimentos, Contato
+
+    Botão de "Faça seu pedido" ou "Reservar uma mesa"
+
+2️⃣ Seção Hero (Banner Principal)
+
+    Uma imagem bonita do café (ou um vídeo curto de ambiente interno)
+
+    Um título chamativo como: "O sabor do melhor café da cidade"
+
+    Uma chamada para ação como "Peça agora" ou "Conheça nosso espaço"
+
+3️⃣ Seção "Sobre Nós"
+
+    Pequeno texto contando a história do café
+
+    Imagem do ambiente ou dos fundadores
+
+    Destaques como "Café 100% artesanal", "Feito com grãos selecionados"
+
+4️⃣ Seção "Cardápio"
+
+    Lista dos principais produtos, com imagens e preços
+
+    Pode ser dividido em categorias como Cafés, Chás, Sobremesas, Lanches
+
+    Botão "Ver cardápio completo"
+
+5️⃣ Seção "Depoimentos"
+
+    Comentários de clientes satisfeitos
+
+    Carrossel ou layout de cartões para exibir feedbacks
+
+6️⃣ Seção "Contato"
+
+    Formulário para contato
+
+    Endereço, telefone e horário de funcionamento
+
+    Mapa interativo do Google Maps
+
+7️⃣ Rodapé
+
+    Links rápidos para as seções
+
+    Redes sociais
+
+    Aviso de direitos autorais
