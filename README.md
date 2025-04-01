@@ -20,4 +20,13 @@ Uma landing page moderna e interativa para um café, destacando seus produtos e 
  
 
 ## 🚀 Como Executar o Projeto  
-1. Clone este repositório:  
+1. Clone este repositório:
+
+2. Abra o arquivo `index.html` no navegador.  
+
+## 📞 Contato  
+Caso tenha alguma dúvida ou sugestão, entre em contato comigo pelo [LinkedIn](https://www.linkedin.com/in/francisco-ngonde-afonso-1b903b204/).  
+
+---
+© 2024 Coffee House. Todos os direitos reservados.
+
