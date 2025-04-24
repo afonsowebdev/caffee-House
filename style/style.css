@@ -77,7 +77,8 @@ header {
   z-index: 5;
   width: 100%;
   position: fixed;
-  background: var(--primary-color);
+  background: /* var(--primary-color) */ rgba(255, 255, 255, 0.8);
+  backdrop-filter: blur(5px);
 }
 header .navbar {
   display: flex;
@@ -113,7 +114,11 @@ header .navbar {
 /* Hero section styling */
 .hero-section {
   min-height: 100vh;
-  background: var(--primary-color);
+  background: /* var(--primary-color) */ url(/images/2148267900.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  backdrop-filter: blur(5px);
 }
 .hero-section .section-content {
   display: flex;
@@ -128,7 +133,7 @@ header .navbar {
 .hero-section .hero-details .title {
   font-size: var(--font-size-xxl);
   color: var(--secondary-color);
-  font-family: "Miniver", sans-serif;
+  font-family: "Poppins", sans-serif;
 }
 .hero-section .hero-details .subtitle {
   margin-top: 8px;
